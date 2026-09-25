@@ -186,3 +186,7 @@ tests/                   pytest suite
   only on its endpoints.
 * Rolling-horizon re-planning (re-optimise each month as failures and deliveries happen) would
   turn this into an operational tool.
+
+## License
+
+[MIT](LICENSE) © 2026 Gabriel Milanez Cavalheri
