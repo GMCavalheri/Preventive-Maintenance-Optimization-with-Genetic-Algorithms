@@ -1,5 +1,7 @@
 # Preventive Maintenance Optimization with Genetic Algorithms
 
+[![Tests](https://github.com/GMCavalheri/Preventive-Maintenance-Optimization-with-Genetic-Algorithms/actions/workflows/tests.yml/badge.svg)](https://github.com/GMCavalheri/Preventive-Maintenance-Optimization-with-Genetic-Algorithms/actions/workflows/tests.yml)
+
 Scheduling a year of preventive maintenance for a 10-aircraft fleet (40 components) with a genetic
 algorithm, under hangar, labour and spare-part limits. The GA is benchmarked against fixed-interval
 rules and an exact CP-SAT model, and a multi-objective variant (NSGA-II) maps the cost-vs-risk trade-off.
